@@ -1,0 +1,51 @@
+# Default ignored files
+.idea
+.idea/
+ ../../.VirtualBox/
+        ../../.aws/
+        ../../.bash_history
+        ../../.cf/
+        ../../.config/
+        ../../.dotnet/
+        ../../.eclipse/
+        ../../.gitconfig
+        ../../.lemminx/
+        ../../.lesshst
+        ../../.m2/
+        ../../.nuget/
+        ../../.p2/
+        ../../.sts4/
+        ../../.templateengine/
+        ../../.tooling/
+        ../../.viminfo
+        ../../.vscode/
+        ../../3D Objects/
+        ../../AppData/
+        ../../Contacts/
+        ../../Desktop/
+        ../../Documents/
+        ../../Downloads/
+        ../../Favorites/
+        ../
+        ../../IntelGraphicsProfiles/
+        ../../Links/
+        ../../MicrosoftEdgeBackups/
+        ../../Music/
+        ../../NTUSER.DAT
+        ../../NTUSER.DAT{5bf26a6d-557e-11ea-86f1-dac8de85e5e1}.TM.blf
+        ../../NTUSER.DAT{5bf26a6d-557e-11ea-86f1-dac8de85e5e1}.TMContainer00000000000000000001.regtrans-ms
+        ../../NTUSER.DAT{5bf26a6d-557e-11ea-86f1-dac8de85e5e1}.TMContainer00000000000000000002.regtrans-ms
+        ../../OneDrive/
+        ../../Pictures/
+        ../../ReactJs/
+        ../../Saved Games/
+        ../../Searches/
+        ../../Videos/
+        ../../eclipse-workspace/
+        ../../eclipse/
+        ../../ntuser.dat.LOG1
+        ../../ntuser.dat.LOG2
+        ../../ntuser.ini
+        ../../source/
+
+/workspace.xml
